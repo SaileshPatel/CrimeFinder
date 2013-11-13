@@ -1,0 +1,293 @@
+#alert {
+    font-family: 'Monda', sans-serif;
+}
+#start {
+   font-family: 'Monda', sans-serif;
+}
+#end {
+  font-family: 'Monda', sans-serif;
+}
+
+.button {
+        position: relative;
+        vertical-align: top;
+        width: 50%;
+        height: 60px;
+        padding: 0;
+        font-size: 22px;
+        color: white;
+        text-align: center;
+        text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+        background: #f1c40f;
+        border: 0;
+        border-bottom: 4px solid #e2b607;
+        cursor: pointer;
+        -webkit-box-shadow: inset 0 -2px #e2b607;
+        box-shadow: inset 0 -2px #e2b607;
+        padding-left: 
+        }
+       .button:active {
+       top: 1px;
+       outline: none;
+       -webkit-box-shadow: none;
+       box-shadow: none;
+   }
+       .button:hover {
+        background: #2732d8;
+        border-bottom: 4px solid #3a27d8;
+        box-shadow: inset 0 -2px #3a27d8;
+       }
+.buttonMap {
+        position: relative;
+        vertical-align: top;
+        width: 15%;
+        height: 60px;
+        padding: 0;
+        font-size: 22px;
+        color: white;
+        text-align: center;
+        text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+        background: orange;
+        border: 0;
+        border-bottom: 4px solid #e69500;
+        cursor: pointer;
+        -webkit-box-shadow: inset 0 -2px #e69500;
+        box-shadow: inset 0 -2px #e69500;
+        padding-left: 
+        }
+       .buttonMap:active {
+       top: 1px;
+       outline: none;
+       -webkit-box-shadow: none;
+       box-shadow: none;
+   }
+       .buttonMap:hover {
+        background: #2732d8;
+        border-bottom: 4px solid #3a27d8;
+        box-shadow: inset 0 -2px #3a27d8;
+       }
+
+
+
+            .about {
+                color: #000000;
+                font-family: 'Autour One', cursive;
+                font-size: 25px;
+                text-align: center;
+
+            }
+            .buttonplace {
+                  position: ;
+                  margin: 0 auto;
+                  top: 50%;
+                  left: 50%;
+                  overflow: hidden;
+                  background-color:#3498db;
+                  height:800px;
+                  width: 800px;
+                  text-align: center;
+
+            }
+
+            body {
+                 background: 
+linear-gradient(135deg, #e74c3c 25%, transparent 25%) -50px 0,
+linear-gradient(225deg, #2980b9 25%, transparent 25%) -50px 0,
+linear-gradient(315deg, #e74c3c 25%, transparent 25%),
+linear-gradient(45deg, #2980b9 25%, transparent 25%);   
+background: 
+-webkit-linear-gradient(135deg, #e74c3c 25%, transparent 25%) -50px 0,
+-webkit-linear-gradient(225deg, #2980b9 25%, transparent 25%) -50px 0,
+-webkit-linear-gradient(315deg, #e74c3c 25%, transparent 25%),
+-webkit-linear-gradient(45deg, #2980b9 25%, transparent 25%);  
+background: 
+-moz-linear-gradient(135deg, #e74c3c 25%, transparent 25%) -50px 0,
+-moz-linear-gradient(225deg, #2980b9 25%, transparent 25%) -50px 0,
+-moz-linear-gradient(315deg, #e74c3c 25%, transparent 25%),
+-moz-linear-gradient(45deg, #2980b9 25%, transparent 25%);  
+background: 
+-o-linear-gradient(135deg, #e74c3c 25%, transparent 25%) -50px 0,
+-o-linear-gradient(225deg, #2980b9 25%, transparent 25%) -50px 0,
+-o-linear-gradient(315deg, #e74c3c 25%, transparent 25%),
+-o-linear-gradient(45deg, #2980b9 25%, transparent 25%);  
+
+
+
+
+background-size: 100px 100px;
+background-color: #f1c40f;
+                }
+ 
+            .inputtext {
+                background-color: silver;
+                }
+ 
+            .buttonholder {
+                text-align: center
+                }
+ 
+            .sorry{
+                size: 400px;
+                }
+ 
+            h1 {
+                color: white;
+                font-family: 'Monda', sans-serif;
+                font-size: 40px;
+                text-align: center;
+                }
+				h1:hover{
+				color: yellow;
+                font-family: 'Monda', sans-serif;
+                font-size: 40px;
+                text-align: center;
+				}
+            h2 {
+                width: 40%;
+                height: 60px;
+                color: white;
+                font-family: 'Monda', sans-serif;
+                font-size: 30px;
+                text-align: center;
+                margin: 0 auto;
+                }
+ 
+            p {
+                color: #FFFFFF;
+                font-family: Open-Sans, Quicksand;
+                font-size: 17px;
+                }
+ 
+            footer {
+                background-color: #2980b9;
+                color: black ;
+                text-align: center;
+                position: fixed;
+                left: 0px;
+                bottom: 0px;
+                height: 38px;
+                width: 100%;
+                font-family: 'Monda', sans-serif;
+                margin-bottom: auto;
+                overflow: hidden;
+                }
+
+             a:link { 
+                color: #FFFFFF; 
+                text-decoration: none;
+            }
+            a:visited { 
+                color: #FFFFFF; 
+                text-decoration: none;
+            }
+            a:hover { 
+                color: orange; 
+                text-decoration: none;
+            }
+            a:active { 
+                color: #FFFFFF; 
+                text-decoration: none;
+            }
+ 
+            header {
+                   background-color: #2980b9;   
+                 top: 0;
+                float: right;
+                height: 100px;
+                left: 0;
+                margin-bottom: auto;
+                overflow: hidden;
+                position: fixed;
+                width: 100%;
+                z-index: 100;
+                }
+				
+				.buttonHome {
+        position: relative;
+        vertical-align: top;
+        width: 33%;
+        height: 60px;
+        padding: 0;
+        font-size: 22px;
+        color: white;
+        text-align: center;
+        text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+        background: #8A0808;
+        border: 0;
+        border-bottom: 4px solid #720707;
+        cursor: pointer;
+        -webkit-box-shadow: inset 0 -2px #e2b607;
+        box-shadow: inset 0 -2px #720707;
+        padding-left: 
+        }
+       .buttonHome:active {
+       top: 1px;
+       outline: none;
+       -webkit-box-shadow: none;
+       box-shadow: none;
+   }
+       .buttonHome:hover {
+        background: #2732d8;
+        border-bottom: 4px solid #3a27d8;
+        box-shadow: inset 0 -2px #3a27d8;
+       }
+	   
+	   .TwitterButton {
+        position: relative;
+        vertical-align: top;
+        width: 50%;
+        height: 60px;
+        padding: 0;
+        font-size: 22px;
+        color: white;
+        text-align: center;
+        text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+        background: #ff0000;
+        border: 0;
+        border-bottom: 4px solid #cc0000;
+        cursor: pointer;
+        -webkit-box-shadow: inset 0 -2px #e2b607;
+        box-shadow: inset 0 -2px #cc0000;
+        padding-left: 
+        }
+        .TwitterButton:active {
+         top: 1px;
+       outline: none;
+       -webkit-box-shadow: none;
+       box-shadow: none;   
+        }
+        .TwitterButton:hover {
+        background: #2732d8;
+        border-bottom: 4px solid #3a27d8;
+        box-shadow: inset 0 -2px #3a27d8;
+       }
+	   
+	   .DownloadButton {
+        position: relative;
+        vertical-align: top;
+        width: 50%;
+        height: 60px;
+        padding: 0;
+        font-size: 22px;
+        color: white;
+        text-align: center;
+        text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+        background: #660066;
+        border: 0;
+        border-bottom: 4px solid #4d004d;
+        cursor: pointer;
+        -webkit-box-shadow: inset 0 -2px #e2b607;
+        box-shadow: inset 0 -2px #4d004d;
+        padding-left: 
+        }
+       .DownloadButton:active {
+       top: 1px;
+       outline: none;
+       -webkit-box-shadow: none;
+       box-shadow: none;
+   }
+       .DownloadButton:hover {
+        background: #2732d8;
+        border-bottom: 4px solid #3a27d8;
+        box-shadow: inset 0 -2px #3a27d8;
+       }

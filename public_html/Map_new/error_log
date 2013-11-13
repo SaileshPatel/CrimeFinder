@@ -1,0 +1,100 @@
+[11-Aug-2013 21:35:00 UTC] PHP Warning:  require(www.crimefinder.co.uk\Map_new\twilio-twilio-php-e931821\Services\Twilio.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/crime/public_html/Map_new/rickroll.php on line 50
+[11-Aug-2013 21:35:00 UTC] PHP Warning:  require(www.crimefinder.co.uk\Map_new\twilio-twilio-php-e931821\Services\Twilio.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/crime/public_html/Map_new/rickroll.php on line 50
+[11-Aug-2013 21:35:00 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'www.crimefinder.co.uk\Map_new\twilio-twilio-php-e931821\Services\Twilio.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crime/public_html/Map_new/rickroll.php on line 50
+[11-Aug-2013 21:35:04 UTC] PHP Warning:  require(www.crimefinder.co.uk\Map_new\twilio-twilio-php-e931821\Services\Twilio.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/crime/public_html/Map_new/rickroll.php on line 50
+[11-Aug-2013 21:35:04 UTC] PHP Warning:  require(www.crimefinder.co.uk\Map_new\twilio-twilio-php-e931821\Services\Twilio.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/crime/public_html/Map_new/rickroll.php on line 50
+[11-Aug-2013 21:35:04 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'www.crimefinder.co.uk\Map_new\twilio-twilio-php-e931821\Services\Twilio.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crime/public_html/Map_new/rickroll.php on line 50
+[11-Aug-2013 21:35:41 UTC] PHP Warning:  require(www.crimefinder.co.uk/Map_new/twilio-twilio-php-e931821/Services/Twilio.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/crime/public_html/Map_new/rickroll.php on line 50
+[11-Aug-2013 21:35:41 UTC] PHP Warning:  require(www.crimefinder.co.uk/Map_new/twilio-twilio-php-e931821/Services/Twilio.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/crime/public_html/Map_new/rickroll.php on line 50
+[11-Aug-2013 21:35:41 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'www.crimefinder.co.uk/Map_new/twilio-twilio-php-e931821/Services/Twilio.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crime/public_html/Map_new/rickroll.php on line 50
+[11-Aug-2013 21:36:35 UTC] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'Authenticate' in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php:226
+Stack trace:
+#0 /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php(197): Services_Twilio->_processResponse(Array)
+#1 /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio/ListResource.php(84): Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio/Rest/Calls.php(25): Services_Twilio_ListResource->_create(Array)
+#3 /home/crime/public_html/Map_new/rickroll.php(62): Services_Twilio_Rest_Calls->create('441233801281', '447523308762', 'http://gkly.co/...')
+#4 {main}
+  thrown in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php on line 226
+[11-Aug-2013 21:40:40 UTC] PHP Warning:  require(home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/crime/public_html/Map_new/rickroll.php on line 50
+[11-Aug-2013 21:40:40 UTC] PHP Warning:  require(home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/crime/public_html/Map_new/rickroll.php on line 50
+[11-Aug-2013 21:40:40 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crime/public_html/Map_new/rickroll.php on line 50
+[11-Aug-2013 21:40:52 UTC] PHP Warning:  require(home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/crime/public_html/Map_new/rickroll.php on line 50
+[11-Aug-2013 21:40:52 UTC] PHP Warning:  require(home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/crime/public_html/Map_new/rickroll.php on line 50
+[11-Aug-2013 21:40:52 UTC] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/crime/public_html/Map_new/rickroll.php on line 50
+[11-Aug-2013 21:41:59 UTC] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'Authenticate' in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php:226
+Stack trace:
+#0 /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php(197): Services_Twilio->_processResponse(Array)
+#1 /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio/ListResource.php(84): Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio/Rest/Calls.php(25): Services_Twilio_ListResource->_create(Array)
+#3 /home/crime/public_html/Map_new/rickroll.php(62): Services_Twilio_Rest_Calls->create('441233801281', '447523308762', 'http://gkly.co/...')
+#4 {main}
+  thrown in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php on line 226
+[11-Aug-2013 21:42:58 UTC] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'Authenticate' in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php:226
+Stack trace:
+#0 /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php(197): Services_Twilio->_processResponse(Array)
+#1 /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio/ListResource.php(84): Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio/Rest/Calls.php(25): Services_Twilio_ListResource->_create(Array)
+#3 /home/crime/public_html/Map_new/rickroll.php(62): Services_Twilio_Rest_Calls->create('441233801281', '447523308762', 'http://gkly.co/...')
+#4 {main}
+  thrown in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php on line 226
+[11-Aug-2013 21:43:01 UTC] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'Authenticate' in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php:226
+Stack trace:
+#0 /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php(197): Services_Twilio->_processResponse(Array)
+#1 /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio/ListResource.php(84): Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio/Rest/Calls.php(25): Services_Twilio_ListResource->_create(Array)
+#3 /home/crime/public_html/Map_new/rickroll.php(62): Services_Twilio_Rest_Calls->create('441233801281', '447523308762', 'http://gkly.co/...')
+#4 {main}
+  thrown in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php on line 226
+[11-Aug-2013 21:43:08 UTC] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'Authenticate' in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php:226
+Stack trace:
+#0 /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php(197): Services_Twilio->_processResponse(Array)
+#1 /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio/ListResource.php(84): Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio/Rest/Calls.php(25): Services_Twilio_ListResource->_create(Array)
+#3 /home/crime/public_html/Map_new/rickroll.php(62): Services_Twilio_Rest_Calls->create('441233801281', '447523308762', 'http://gkly.co/...')
+#4 {main}
+  thrown in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php on line 226
+[11-Aug-2013 21:45:54 UTC] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'Authenticate' in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php:226
+Stack trace:
+#0 /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php(197): Services_Twilio->_processResponse(Array)
+#1 /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio/ListResource.php(84): Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio/Rest/Calls.php(25): Services_Twilio_ListResource->_create(Array)
+#3 /home/crime/public_html/Map_new/rickroll.php(62): Services_Twilio_Rest_Calls->create('441233801281', '447523308762', 'http://gkly.co/...')
+#4 {main}
+  thrown in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php on line 226
+[11-Aug-2013 21:49:36 UTC] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'Authenticate' in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php:226
+Stack trace:
+#0 /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php(197): Services_Twilio->_processResponse(Array)
+#1 /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio/ListResource.php(84): Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio/Rest/Calls.php(25): Services_Twilio_ListResource->_create(Array)
+#3 /home/crime/public_html/Map_new/rickroll.php(62): Services_Twilio_Rest_Calls->create('441233801281', '447523308762', 'http://gkly.co/...')
+#4 {main}
+  thrown in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php on line 226
+[12-Aug-2013 07:31:00 UTC] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'Authenticate' in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php:226
+Stack trace:
+#0 /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php(197): Services_Twilio->_processResponse(Array)
+#1 /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio/ListResource.php(84): Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio/Rest/Calls.php(25): Services_Twilio_ListResource->_create(Array)
+#3 /home/crime/public_html/Map_new/rickroll.php(62): Services_Twilio_Rest_Calls->create('441233801281', '447523308762', 'http://gkly.co/...')
+#4 {main}
+  thrown in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php on line 226
+[12-Aug-2013 07:33:11 UTC] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'Authenticate' in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php:226
+Stack trace:
+#0 /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php(197): Services_Twilio->_processResponse(Array)
+#1 /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio/ListResource.php(84): Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio/Rest/Calls.php(25): Services_Twilio_ListResource->_create(Array)
+#3 /home/crime/public_html/Map_new/rickroll.php(62): Services_Twilio_Rest_Calls->create('441233801281', '447523308762', 'http://gkly.co/...')
+#4 {main}
+  thrown in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php on line 226
+[12-Aug-2013 07:34:09 UTC] PHP Warning:  Unterminated comment starting line 14 in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php on line 14
+[12-Aug-2013 07:34:09 UTC] PHP Fatal error:  Cannot redeclare Services_Twilio_autoload() (previously declared in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php:3) in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php on line 10
+[12-Aug-2013 07:36:20 UTC] PHP Fatal error:  Class 'Services_Twilio' not found in /home/crime/public_html/Map_new/rickroll.php on line 55
+[12-Aug-2013 07:38:09 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php on line 14
+[12-Aug-2013 07:38:10 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php on line 14
+[12-Aug-2013 07:38:19 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php on line 14
+[12-Aug-2013 07:38:20 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php on line 14
+[12-Aug-2013 07:39:08 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php on line 15
+[12-Aug-2013 07:40:16 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php on line 15
+[12-Aug-2013 07:40:58 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php on line 226
+[12-Aug-2013 07:41:00 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php on line 226
+[12-Aug-2013 08:42:38 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php on line 226
+[12-Aug-2013 08:42:43 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/crime/public_html/Map_new/twilio-twilio-php-e931821/Services/Twilio.php on line 226
