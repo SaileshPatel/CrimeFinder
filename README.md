@@ -5,4 +5,7 @@ CrimeFinder was the Team Marauder project for #YRS2013, which Edward, Liza, IJ, 
 Unfortunately due to my lack of back-end knowledge, I can't answer any questions on this, however I do know that it came from 'data.gov.uk' and that it is in a JSON format.
 Have fun kids!!!
 
+
+(EDIT: 20/02/2015) - Unfortunately this website is no longer functional due to the APIs used being updated and a lack of knowledge on APIs. 
+
 Made by Team Marauder (www.teammarauder.wordpress.com)
